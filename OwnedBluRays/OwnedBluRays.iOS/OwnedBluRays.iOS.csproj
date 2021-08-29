@@ -135,4 +135,7 @@
       <Name>OwnedBluRays</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\blu_ray_logo.png" />
+  </ItemGroup>
 </Project>
